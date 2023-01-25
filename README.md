@@ -1,16 +1,26 @@
-### Hi there 👋
+![MasterHead](https://miro.medium.com/max/1200/0*3AKBVtPS0i-dAPUh.jpg)
+<h1 align="center">Hi 👋, I'm Opeyemi Adewole</h1>
+<h4 align="justify">Opeyemi is an independent smart contract developer and a smart contract security specialist who has participated in the audit of over 5 different protocols across lending & borrowing, staking, etc. He has helped different crypto protocols prevent various hacks to their system ranging from low-level impact to bugs/vulnerabilities that could have cost the companies millions of $$$. He currently freelances on web3 security platforms like ImmuneFi and code4rena helping different web3 companies with pre- and post-launch audits. He believes in blockchain and its prospects. Blockchain technology is in its embryonic stage, hence the potential for growth and the need for improved security.</h4>
 
-<!--
-**Dliteofficial/Dliteofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dliteofficial&label=Profile%20views&color=0e75b6&style=flat" alt="dliteofficial" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dliteofficial" alt="dliteofficial" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/dliteofficial)
+
+- 📝 I regularly write articles on [my blog](dliteofficial.hashnode.dev)
+
+- 💬 Ask me about **Solidity, unit testing, penetration testing and smart contract auditing**
+
+- 📫 How to reach me **opeyemi4adewole@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/dlite_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dlite_official" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/opeyemi-adewole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="opeyemi-adewole" height="30" width="40" /></a>
+<a href="https://hashnode.com/@dliteofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dliteofficial" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dliteofficial&show_icons=true&locale=en" alt="dliteofficial" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dliteofficial&" alt="dliteofficial" /></p>
