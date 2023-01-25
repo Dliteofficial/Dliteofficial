@@ -5,11 +5,11 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/dliteofficial)
 
-- 📝 I regularly write articles on [my blog](dliteofficial.hashnode.dev)
+- 📝 I regularly write articles on [my blog](https://dliteofficial.hashnode.dev)
 
 - 💬 Ask me about **Solidity, unit testing, penetration testing and smart contract auditing**
 
-- 📫 How to reach me **opeyemi4adewole@gmail.com**
+- 📫 Send me a mail via **opeyemi4adewole@gmail.com**
 
 ## &#x1f4c8; GitHub Stats
 
